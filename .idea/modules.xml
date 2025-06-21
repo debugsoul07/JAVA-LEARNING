@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Myfirstprogram.iml" filepath="$PROJECT_DIR$/Myfirstprogram.iml" />
       <module fileurl="file://$PROJECT_DIR$/lectures/lectures.iml" filepath="$PROJECT_DIR$/lectures/lectures.iml" />
+      <module fileurl="file://$PROJECT_DIR$/tp/tp.iml" filepath="$PROJECT_DIR$/tp/tp.iml" />
       <module fileurl="file://$PROJECT_DIR$/variables/variables.iml" filepath="$PROJECT_DIR$/variables/variables.iml" />
     </modules>
   </component>
